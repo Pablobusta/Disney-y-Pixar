@@ -48,6 +48,8 @@ http://51.77.66.14/Pack%20Peliculas%20de%20Disney%20HD%201080p%20y%20720p%20LATI
 http://5.9.94.182/master/Peliculas1/El%20Rey%20Leon%202%20El%20Reino%20De%20Simba%20(1998).mkv
 #EXTINF:-1 ,Monster Inc (2001)
 http://5.9.94.182/master/Peliculas1/Monsters,%20Inc.%20(2001).mkv
+#EXTINF:-1 ,Lilo y Stich (2002)
+http://193.34.144.178/Bryan/pelisdisney/Ver%20Pelicula%20Lilo%20y%20Stitch%201%20Online%20Gratis.MP4
 #EXTINF:-1 ,La Cenicienta 2 (2002)
 http://51.77.66.14/Pack%20Peliculas%20de%20Disney%20HD%201080p%20y%20720p%20LATINO/Cenicienta%202%20(2002)%20HD%201080p%20LATINO/Cenicienta%202%20(2002)%20HD%201080p%20LATINO.mkv
 #EXTINF:-1 ,Tierra de Osos (2003)
